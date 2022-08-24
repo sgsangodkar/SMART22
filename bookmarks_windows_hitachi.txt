@@ -1,0 +1,6 @@
+http://mappings.dbpedia.org/server/ontology/classes/
+https://rdflib.readthedocs.io/en/stable/
+https://www.youtube.com/watch?v=6Ef85vy8VTM: Metadata MOOC 6-5: DBpedia Ontology
+https://www.youtube.com/watch?v=ZzWT-2xdaek: Working with DBpedia data using Graph in elastic stack 5.4
+http://downloads.dbpedia.org/wiki-archive/data-set-39.html
+http://andrea-index.blogspot.com/2015/06/wikipedia-dbpedia-wikidata.html
